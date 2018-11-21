@@ -1,0 +1,12 @@
+{
+"EnemySpawnRate":3,
+"EnemySpawnMin":1,
+"EnemySpawnMax":3,
+"EnemySpeed":0.2,
+"CityMaxHealth":100,
+"CityCollisionDamage":20,
+"BulletSpeed":4,
+"BulletDistanceFromClick":0.5,
+"BulletExplosionDuration":1,
+"BulletMaxExplosionRadius":4
+}
